@@ -1,0 +1,94 @@
+html {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    padding: 2rem;
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    line-height: 1.4;
+  }
+
+  /* img {
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+  }  */
+
+  .card{
+    padding: 0;
+    margin-bottom: 1rem;
+  }
+
+  .card-body{
+    padding: 0;
+    margin-bottom: 1rem;
+  }
+
+  .card-dec{
+    padding: 1rem;
+  }
+
+  .card-title{
+    font-family: lato;
+    font-weight: 600;
+  }
+  .card-text{
+    font-size: 14px;
+    color: rgba(119, 115, 115, 0.6);
+  }
+
+  .author-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  .author{
+    font-size: 14px;
+    color: rgba(119, 115, 115, 0.6);
+
+  }
+  .date{
+    font-size: 14px;
+    color: rgba(119, 115, 115, 0.6);
+
+  }
+
+/* .App {
+    font-family: lato;
+    text-align: center;
+  } */
+/*   
+  .mainCard {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  border: solid 1px rgba(0, 0, 0, 0.08);
+    border-radius: 20px;
+   
+  }
+
+ 
+  .card-title {
+    margin-top: 20px;
+  }
+  .card-text {
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.6);
+  }
+  .card-text .fa {
+    font-size: 26px;
+  } */
+ 
+  
+  
+  
+
+  
+  /* @media (min-width: 1200px) {
+    .container {
+      max-width: 1200px;
+    }
+  } */
+  
